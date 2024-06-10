@@ -1,1 +1,1 @@
-# TWo_Sentence_Horro_Story_Generator
+# Two_Sentence_Horro_Story_Generator
